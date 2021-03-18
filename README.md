@@ -1,3 +1,7 @@
 # psspectral
 
-Collection of PDE's solvers using pseudospectral Fourier and Chebyshev methods.
+Collection of PDE solvers using pseudospectral Fourier and Chebyshev methods.
+
+Currently includes:\
+Heat Diffusion 1D - Explicit\
+Heat Diffusion 1D - Implicit
