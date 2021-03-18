@@ -1,3 +1,3 @@
 # psspectral
 
-Collection of PDE's solve with pseudospectral Fourier and Chebyshev Methods.
+Collection of PDE's solvers using pseudospectral Fourier and Chebyshev methods.
