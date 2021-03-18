@@ -1,0 +1,13 @@
+[package]
+name = "dm_test"
+version = "0.1.0"
+authors = ["preiter <preiter@gwdg.de>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+dmsuite = { git = "https://github.com/preiter93/dmsuite", tag = "v0.1" }
+ndarray = "0.14.0"
+ndarray-linalg = { version = "0.13", features = ["openblas-static"] }
+gnuplot = "0.0.37"
